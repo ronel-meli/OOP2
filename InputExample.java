@@ -14,9 +14,6 @@ public class InputExample {
     public static void main (String[]args) {
         (new InputExample()).readNameAndAge();
 
-
-
-
     }
 
 }
